@@ -230,3 +230,4 @@ pip-selfcheck.json
 # the files are too big to add to git
 *.csv
 *.json
+out

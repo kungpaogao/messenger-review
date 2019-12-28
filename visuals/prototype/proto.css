@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+
+.bar-html div {
+  background-color: steelblue;
+  text-align: right;
+  color: white;
+  padding: 0.5rem;
+  margin: 0.1rem 0;
+}
+
+.bar-svg rect,
+.bar-csv rect {
+  fill: steelblue;
+}
+
+.bar-svg text,
+.bar-csv text {
+  fill: white;
+  text-anchor: end;
+}
